@@ -1,0 +1,18 @@
+int keyword
+main identifier
+( separator
+) separator
+{ separator
+int keyword
+a identifier
+= operator
+1.55 real number
+, separator
+b identifier
+= operator
+1 real number
++ operator
+10E+1 real number
+; separator
+} separator
+ 
